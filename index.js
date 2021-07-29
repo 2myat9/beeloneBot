@@ -1,6 +1,6 @@
 import Discord from "discord.js";
 // import WOKCommands from 'wokcommands'
-require("dotenv").config();
+// require("dotenv").config();
 
 const client = new Discord.Client();
 
